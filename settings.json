@@ -1,0 +1,9 @@
+{
+    "file_path": "contract_data.xlsx",
+    "src_sheet": "작업리스트",
+    "tgt_sheet": "완료리스트",
+    "sum_formula_cell": "B14",
+    "user_id": "your_id",
+    "api_login_url": "https://company.com/api/login",
+    "api_save_url": "https://company.com/api/save"
+}
