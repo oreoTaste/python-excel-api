@@ -1,0 +1,17 @@
+# 설정 및 비밀번호 파일 (요청하신 파일)
+.env
+google_auth.json
+settings.json
+
+# 가상 환경 (Python 프로젝트일 경우 필수)
+venv/
+.venv/
+env/
+
+# 파이썬 캐시 파일
+__pycache__/
+*.py[cod]
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
